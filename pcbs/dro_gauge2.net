@@ -1,0 +1,17 @@
+unnamed_net13	Q3-3 R10-1 
+unnamed_net12	Q4-3 R9-1 
+unnamed_net11	Q3-2 R8-2 
+unnamed_net10	Q4-2 R7-2 
+unnamed_net9	C2-2 Q2-2 R6-1 
+unnamed_net8	C3-2 Q1-2 R5-1 
+unnamed_net7	R10-2 R6-2 CONN1-3 
+unnamed_net6	R9-2 R5-2 CONN1-2 
+unnamed_net5	Q3-1 Q4-1 C1-2 R2-2 R1-1 CONN1-1 
+SDA_0	CONN2-3 U1-5 
+SCL_0	CONN2-4 U1-6 
+unnamed_net4	Q1-3 R3-1 U1-7 
+GND	CONN2-6 C3-1 C2-1 C1-1 Q2-1 Q1-1 R2-1 CONN1-4 C4-1 U1-8 
+unnamed_net3	Q2-3 R4-1 U1-4 
+unnamed_net2	R8-1 U1-3 
+unnamed_net1	R7-1 U1-2 
++5V	CONN2-1 R4-2 R3-2 R1-2 C4-2 U1-1 
